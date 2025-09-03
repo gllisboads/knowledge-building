@@ -1,17 +1,17 @@
-# Welcome to MkDocs
+# Knowledge Building
 
-For full documentation visit [mkdocs.org](https://www.mkdocs.org).
+Olá, meu nome é *Gabriel*,
 
-## Commands
+Estou iniciando meus estudos em GitHub e nas tecnologias que o acompanham. No começo tudo parece um pouco complexo, mas cada comando aprendido e cada recurso explorado me dá mais confiança. Estou descobrindo como é importante versionar código e colaborar em projetos, e isso me faz enxergar novas possibilidades de crescimento. Ainda tenho muito a aprender, mas estou empolgado com essa caminhada.
 
-* `mkdocs new [dir-name]` - Create a new project.
-* `mkdocs serve` - Start the live-reloading docs server.
-* `mkdocs build` - Build the documentation site.
-* `mkdocs -h` - Print help message and exit.
+[Veja meu perfil no GitHub](https://github.com/gllisboads)
 
-## Project layout
+## O que estou aprendendo:
 
-    mkdocs.yml    # The configuration file.
-    docs/
-        index.md  # The documentation homepage.
-        ...       # Other markdown pages, images and other files.
+- Git
+- GitHub
+- Comandos no Terminal
+
+## O que ainda vou aprender:
+
+- Python
